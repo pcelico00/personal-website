@@ -65,9 +65,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-#user_groups:
-#- Researchers
-#- Visitors
-#---
+user_groups:
+- Researchers
+- Visitors
+---
 
 Dr. Celicourt is a scientist with expertise in engineering informatics and its applications to earth sciences, especially hydrology (i.e., Hydroinformatics). His research interest is in the development and application of hardware and software technologies that aid in resolving schematic, syntactic and semantic heterogeneities among distinct earth sciences data sources. He is currently leading the scientific team of his own start-up company, Sensaq , which is developing a new generation of environmental data acquisition system deployable with deployment-context metadata stored onboard and can be updated and shared in a local network or over the internet as needed. Borne out his PhD Thesis, the product, named "Integrated Sensor Data Management System", actually reflects his comprehensive understanding of what is needed when monitoring the environment all the way from sensing a parameter in-situ to shepherding the measured values into a data management system so it is curated and ready for search and potential retrieval. Composed of an advanced sensor platform and associated software that integrates latest research from the field of Hydroinformatics, the system is unique in its design and composition and is now being tested in the U.S.
