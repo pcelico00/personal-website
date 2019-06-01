@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Dr. Paul Celicourt
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Applied Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Sensaq, LLC
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,38 +27,38 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Hydroinformatics
+    institution: The City College of New York
+    year: 2017
+  - course: MS in Urban Sustainability
+    institution: The City College of New York
+    year: 2011
+  - course: BSc in Electromechanical Engineering
+    institution: Faculte des Sciences, Universite d'Etat d'Haiti
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:me@paulcelicourt.ca" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/paulcelicourt
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=YsSw3BIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/pcelico00
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Dr. Celicourt is a scientist with expertise in engineering informatics and its applications to earth sciences, especially hydrology (i.e., Hydroinformatics). His research interest is in the development and application of hardware and software technologies that aid in resolving schematic, syntactic and semantic heterogeneities among distinct earth sciences data sources. He is currently leading the scientific team of his own start-up company, Sensaq , which is developing a new generation of environmental data acquisition system deployable with deployment-context metadata stored onboard and can be updated and shared in a local network or over the internet as needed. Borne out his PhD Thesis, the product, named "Integrated Sensor Data Management System", actually reflects his comprehensive understanding of what is needed when monitoring the environment all the way from sensing a parameter in-situ to shepherding the measured values into a data management system so it is curated and ready for search and potential retrieval. Composed of an advanced sensor platform and associated software that integrates latest research from the field of Hydroinformatics, the system is unique in its design and composition and is now being tested in the U.S.
