@@ -22,8 +22,8 @@ bio: My research interest is in Hydroinformatics, particularly the development a
 
 interests:
 - Hydrometric instrumentation systems
-  Hydroinformatics (Artificial Intelligence)
-  Hydroinformatics (Cyberinfrastructure for instrumentation systems)
+- Hydroinformatics (Artificial Intelligence)
+- Hydroinformatics (Cyberinfrastructure for instrumentation systems)
 
 education:
   courses:
