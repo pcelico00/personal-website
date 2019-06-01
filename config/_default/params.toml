@@ -43,7 +43,7 @@ privacy_pack = false
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04"
 
 ############################
 ## Contact Widget setup   ##
@@ -88,9 +88,9 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-latitude = "45.4912746"
-longitude = "-73.6927938"
-zoom = 15
+latitude = "45.5536616"
+longitude = "-73.662898"
+zoom = 12
 ############################
 ## Plugins                ##
 ############################

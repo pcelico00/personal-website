@@ -21,9 +21,9 @@ organizations:
 bio: My research interest is in Hydroinformatics, particularly the development and application of hardware and software technologies that aid in resolving schematic, syntactic and semantic heterogeneities among distinct earth sciences data sources.
 
 interests:
-- Hydrometric instrumentation systems
-- Hydroinformatics (Artificial Intelligence)
-- Hydroinformatics (Cyberinfrastructure for instrumentation systems)
+- Large-scale Hydrometric instrumentation systems
+- Cyberinfrastructure for large instrumentation systems
+- Artificial Intelligence and Hydrology
 
 education:
   courses:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:me@paulcelicourt.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/paulcelicourt
