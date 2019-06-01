@@ -2,7 +2,6 @@
 title: "Hydromet Sensing: the next generation sensor-to-data management system using open source technologies (Invited)"
 authors:
 - admin
-- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
