@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: An Integrated Sensor Data Management System with Application in Hydrology
 event: Academic Theme Conference
 event_url: https://example.org
-location: London, United Kingdom
+location: Washington, DC, USA
 summary: An example talk using Academic's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
@@ -19,7 +19,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -29,11 +29,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/paulcelicourt
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=51qPkwxNKCg"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
