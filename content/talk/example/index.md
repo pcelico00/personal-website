@@ -21,7 +21,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-{{< youtube id="w7Ft2ymGmfc" autoplay="true" >}}
+#{{< youtube id="w7Ft2ymGmfc" autoplay="true" >}}
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
