@@ -24,6 +24,7 @@ interests:
 - Large-scale Hydrometric instrumentation systems
 - Cyberinfrastructure for large instrumentation systems
 - Artificial Intelligence and Hydrology
+- Agro-informatics
 
 education:
   courses:
