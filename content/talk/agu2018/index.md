@@ -31,7 +31,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: Follow me
   url: https://twitter.com/paulcelicourt
 #url_code: ""
 #url_pdf: ""
