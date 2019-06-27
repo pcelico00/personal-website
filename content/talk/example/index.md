@@ -1,10 +1,10 @@
 ---
 title: An Integrated Sensor Data Management System with Application in Hydrology
-event: Academic Theme Conference
+event: American Geophysical Union, Fall Meeting 2018
 event_url: https://example.org
 location: Washington, DC, USA
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+#summary: An example talk using Academic's Markdown slides feature.
+abstract: "Recent advances in technology have positively impacted the development of sensor networks. However, data management, a vital aspect of the sensor data collection process, has failed to keep pace. Therefore, current hydrological sensing solutions often suffer from a lack of homogenous metadata descriptions for both instrumentation and data item collected. These shortcomings may be attributed to the fact that the solutions are developed around data loggers which are not designed nor programmed to capture, operate on, and serve observations and accompanying metadata in a network. This makes sensors and sensor networks agnostic to each other and thus inherently creates the conditions for a heterogeneous mix of different semantic and syntactic systems. Such an inconsistency increases considerably the workload in the sensor post-deployment phase and human error in the installed data management system."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,9 +21,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-#{{< youtube id="w7Ft2ymGmfc" autoplay="true" >}}
+#{{ yt id:"w7Ft2ymGmfc" autoplay:"true" }}
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Elius Etienne**](https://eliusetienne.com)'
   focal_point: Right
 
 links:
@@ -48,8 +48,8 @@ slides: example
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
+#projects:
+#- internal-project
 
 # Enable math on this page?
 math: true
