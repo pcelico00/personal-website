@@ -1,3 +1,4 @@
+
 ---
 title: "An Integrated Sensor Data Management System with Application in Hydrology"
 authors:
@@ -16,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: 'American Geophysical Union, Fall Meeting 2018, Abstract No:  H51E-01'
-publication_short: ''
+#publication_short: ''
 
 abstract: 'Recent advances in technology have positively impacted the development of sensor networks. However, data management, a vital aspect of the sensor data collection process, has failed to keep pace. Therefore, current hydrological sensing solutions often suffer from a lack of homogenous metadata descriptions for both instrumentation and data item collected. These shortcomings may be attributed to the fact that the solutions are developed around data loggers which are not designed nor programmed to capture, operate on, and serve observations and accompanying metadata in a network. This makes sensors and sensor networks agnostic to each other and thus inherently creates the conditions for a heterogeneous mix of different semantic and syntactic systems. Such an inconsistency increases considerably the workload in the sensor post-deployment phase and human error in the installed data management system.
 
@@ -27,7 +28,7 @@ This paper introduces a fully integrated data collection, data management and da
 
 #tags:
 #- Source Themes
-featured: true
+featured: false
 
 links:
 #- name: Custom Link
@@ -41,12 +42,13 @@ url_slides: ''
 url_source: 'http://adsabs.harvard.edu/abs/2018AGUFM.H51E..01C'
 url_video: 'https://www.youtube.com/watch?v=51qPkwxNKCg'
 
+#
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Image credit: [**Elius Etienne**](http://eliusetienne.com/)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -63,14 +65,4 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
+{{% youtube 51qPkwxNKCg %}}
