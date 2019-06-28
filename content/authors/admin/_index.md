@@ -28,13 +28,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Hydroinformatics
+  - course: PhD, Hydroinformatics
     institution: The City College of New York
     year: 2017
-  - course: MS in Urban Sustainability
+  - course: MS, Urban Sustainability
     institution: The City College of New York
     year: 2011
-  - course: BSc in Electromechanical Engineering
+  - course: BS, Electromechanical Engineering
     institution: Faculte des Sciences, Universite d'Etat d'Haiti
     year: 2009
 
