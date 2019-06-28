@@ -21,10 +21,10 @@ organizations:
 bio: My research interest is in Hydroinformatics, particularly the development and application of hardware and software technologies that aid in resolving schematic, syntactic and semantic heterogeneities among distinct earth sciences data sources.
 
 interests:
-- Large-scale Hydrometric instrumentation systems
-- Cyberinfrastructure for large instrumentation systems
-- Artificial Intelligence and Hydrology
-- Agro-informatics
+- 'Hydroinformatics: Large-scale Hydrometric instrumentation systems'
+- 'Hydroinformatics: Cyberinfrastructure for large-scale instrumentation systems'
+- 'Hydroinformatics: Artificial Intelligence and Hydrology'
+- 'Agro-informatics: Precision irrigation'
 
 education:
   courses:
