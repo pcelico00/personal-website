@@ -69,16 +69,18 @@
     </div>
   </div>
   <div class="col-12 col-lg-8" itemprop="description">
-
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
     {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+    {{ $person.description }}
+  </div>
+  <div class="col-12 col-lg-12" itemprop="description">
+    {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
 
     {{ $person_page.Content }}
-  </div>
+  </div>  
 </div>
 
 <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="{{ if site.Params.email }}person-email{{ end }}{{ if site.Params.phone }} person-telephone{{ end }}{{ if site.Params.address}} person-address{{ end }}">
-
   <div class="col-12 col-lg-12" itemprop="description">
     <div class="row">
       {{ with $person.education }}
@@ -98,7 +100,7 @@
       </div>
       {{ end }}
 	  
-      {{ with $person.interests }}
+      {{ with $person.research_interests }}
       <div class="col-md-7">
         <h3>Research Interests</h3>
         <ul class="ul-interests">
