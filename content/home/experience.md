@@ -24,8 +24,6 @@ date_format = "Jan 2006"
   location = "Syosset, NY, USA"
   date_start = "2016-12-01"
   date_end = ""
-  description = """
-  """
 
 [[experience]]
   title = "Sustainability/Environmental Engineer"
@@ -34,8 +32,6 @@ date_format = "Jan 2006"
   location = "Syosset, NY, USA"
   date_start = "2017-03-27"
   date_end = "2019-05-18"
-  description = """
-  """
   
 [[experience]]
   title = "Graduate Research Assistant"
