@@ -18,9 +18,9 @@ organizations:
   url: http://www.sensaq.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is in Hydroinformatics, particularly the development and application of hardware and software technologies that aid in resolving schematic, syntactic and semantic heterogeneities among distinct earth sciences data sources.
+bio: My research interest is in Hydroinformatics, particularly the development and application of hardware and software technologies that resolve the chronic schematic, syntactic and semantic heterogeneities in earth sciences data sources.
 
-description: 'Dr. Celicourt is a scientist with expertise in engineering informatics and its applications to earth sciences, especially hydrology (i.e., Hydroinformatics). His research interest is in the development and application of hardware and software technologies for environmental conditions monitoring that aid in resolving schematic, syntactic and semantic heterogeneities among distinct earth sciences data sources. He has recently developed an interest in Artificial Intelligence (Computer Vision and Natural Language Processing) to develop advanced technologies to support the understanding of hydrological processes in urban environment and the production of machine-actionable data for decision-making, in disaster management and precision agriculture for example.'
+description: 'Dr. Celicourt is a scientist with expertise in engineering informatics and its applications to earth sciences, especially hydrology (i.e., Hydroinformatics). His research interest is in the development and application of hardware and software technologies for environmental conditions monitoring that resolve the chronic schematic, syntactic and semantic heterogeneities in earth sciences data sources. He has recently developed an interest in Artificial Intelligence (Computer Vision and Natural Language Processing) to develop advanced technologies to support the understanding of hydrological processes in urban environment and the production of machine-actionable data for decision-making, in disaster management and precision agriculture for example.'
 
 research_interests:
 - 'Hydroinformatics: Large-scale hydrometric instrumentation systems'
