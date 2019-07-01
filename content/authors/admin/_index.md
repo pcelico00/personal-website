@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Applied Research Scientist
+role: Co-Founder & Research Scientist
 
 # Organizations/Affiliations
 organizations:
