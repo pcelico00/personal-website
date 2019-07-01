@@ -33,12 +33,24 @@
         {{ with $person.role }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
 
         {{ range $person.organizations }}
+
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
           {{ with .url }}<a href="{{ . }}" target="_blank" itemprop="url" rel="noopener">{{ end }}
           <span itemprop="name">{{ .name }}</span>
           {{ if .url }}</a>{{ end }}
         </h3>
         {{ end }}
+		
+		
+        {{ with $person.role2 }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
+
+        {{ range $person.organizations2 }}
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+          {{ with .url }}<a href="{{ . }}" target="_blank" itemprop="url" rel="noopener">{{ end }}
+          <span itemprop="name">{{ .name }}</span>
+          {{ if .url }}</a>{{ end }}
+        </h3>
+        {{ end }}		
       </div>
 
       <link itemprop="url" href="{{ .Permalink }}">
