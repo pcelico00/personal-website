@@ -52,7 +52,7 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "me@paulcelicourt.ca"
 phone = "514 400 3720"
-address = "Montreal, Quebec, Canada"
+address = "Quebec City, Quebec, Canada"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 19:00<br>
@@ -86,10 +86,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 2
 map_api_key = ""
-latitude = "45.5536616"
-longitude = "-73.662898"
+latitude = "46.776763"
+longitude = "-71.277010"
 zoom = 12
 ############################
 ## Plugins                ##
