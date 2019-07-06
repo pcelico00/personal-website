@@ -12,7 +12,7 @@ day_night = false
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal website of Dr. Paul Celicourt to disseminate his research work in the field of Hydroinformatics."
+description = "Personal website of Dr. Paul Celicourt to disseminate his research work in the field of Hydroinformatics in general and agricultural hydroinformatics in particular."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
