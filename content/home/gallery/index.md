@@ -8,5 +8,5 @@ weight = 66  # Order that this section will appear.
 title = "Gallery"
 subtitle = ""
 +++
-{{< gallery dir="gallery" thumb="-thumb" />}} {{< load-photoswipe >}}
+{{< gallery dir="/gallery/" thumb="-thumb" />}} {{< load-photoswipe >}}
 
