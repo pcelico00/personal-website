@@ -25,7 +25,7 @@ organizations2:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest is in Hydroinformatics, particularly the development and application of hardware and software technologies that resolve the chronic schematic, syntactic and semantic heterogeneities in earth sciences data sources.
 
-description: Dr. Celicourt is a scientist with expertise in engineering informatics and its applications to earth sciences, especially hydrology (i.e., Hydroinformatics). His research interest is in the development and application of hardware and software technologies for environmental conditions monitoring that resolve the chronic schematic, syntactic and semantic heterogeneities in earth sciences data sources. He has recently developed an interest in Artificial Intelligence (Computer Vision and Natural Language Processing) to develop advanced technologies to support the understanding of hydrological processes in urban environment and the production of machine-actionable data for decision-making, in disaster management and precision agriculture (Agro-informatics) for example. He is conducting postdoctoral research to optimize the water footprint of cranberry production in the Quebec province in Canada under the supervision of Drs. Silvio Jose Gumiere and Alain Rousseau.
+description: Dr. Celicourt is a scientist with expertise in engineering informatics and its applications to earth sciences, especially hydrology (i.e., Hydroinformatics). His research interest is in the development and application of hardware and software technologies for environmental conditions monitoring that resolve the chronic schematic, syntactic and semantic heterogeneities in earth sciences data sources. He has recently developed an interest in Artificial Intelligence (Computer Vision and Natural Language Processing) to develop advanced technologies to support the understanding of hydrological processes in urban environment and the production of machine-actionable data for decision-making, in disaster management and precision agriculture (Agricultural hydroinformatics) for example. He is conducting postdoctoral research to optimize the water footprint of cranberry production in the Quebec province in Canada under the supervision of Drs. Silvio Jose Gumiere and Alain Rousseau.
 
 research_interests:
 - 'Hydroinformatics: Large-scale hydrometric instrumentation systems'
@@ -37,7 +37,7 @@ education:
   courses:
   - course: Postdoctoral Research, Precision Irrigation
     institution: Laval University
-    year: ongoing  
+    year: 2021 
   - course: PhD, Hydroinformatics
     institution: The City College of New York
     year: 2017
@@ -73,7 +73,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+tags: ["Environmental data acquisition system", "Metadata", "Hydrology","Hydroinformatics", "Sensors"]  
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -81,4 +81,4 @@ user_groups:
 - Visitors
 ---
 
-He is currently leading the scientific team of his own start-up company, [Sensaq](http://www.sensaq.com) , which is developing a new generation of environmental data acquisition system deployable with deployment-context metadata stored onboard and can be updated and shared in a local network or over the internet as needed. Borne out his PhD Thesis, the product, named "Integrated Sensor Data Management System", actually reflects his comprehensive understanding of what is needed when monitoring the environment all the way from sensing a parameter in-situ to shepherding the measured values into a data management system so it is curated and ready for search and potential retrieval. The system is composed of an advanced sensor platform and associated software that integrates latest research from the field of Hydroinformatics. It is unique in its design and composition and is now being tested in the U.S.
+He is currently leading the scientific team of his own start-up company, [Sensaq](http://www.sensaq.com) , which is developing a new generation of environmental data acquisition system deployable with deployment-context metadata stored onboard and can be updated and shared in a local network or over the internet as needed. Borne out his PhD Thesis in the field of Hydroinformatics, the product, named "Integrated Sensor Data Management System", actually reflects his comprehensive understanding of what is needed when monitoring the environment all the way from sensing a parameter in-situ to shepherding the measured values into a data management system so it is curated and ready for search and potential retrieval. The system is composed of an advanced sensor platform and associated software that integrates latest research from the field of Hydroinformatics. It is unique in its design and composition and is now being tested in the U.S.
