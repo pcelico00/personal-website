@@ -17,7 +17,7 @@ organizations:
 - name: Sensaq, LLC
   url: http://www.sensaq.com
 
-role2: Postdoctoral Fellow
+role2: Postdoctoral Research Fellow
 organizations2:
 - name: Faculty of Agriculture and Food Sciences, Laval University
   url: http://www.vrrc.ulaval.ca/fileadmin/ulaval_ca/Images/recherche/bd/chercheur/fac/dept/04103.html
