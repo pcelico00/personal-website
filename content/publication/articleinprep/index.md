@@ -1,5 +1,5 @@
 ---
-title: "On 'agricultural hydroinformatics': supporting integrated water resources management in agriculture"
+title: "On 'agricultural hydroinformatics': A vision to support integrated water resources management in agriculture"
 authors:
 - Celicourt, P., Gumiere, S. J., Rousseau, A.
 date: "2019-07-01T00:00:00Z"
