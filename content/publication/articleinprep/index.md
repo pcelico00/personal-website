@@ -1,7 +1,7 @@
 ---
-title: "On 'agricultural hydroinformatics': A vision to support integrated water resources management in agriculture"
+title: "Agricultural hydroinformatics: An emerging framework for implementing and adopting information technologies to foster the sustainable management of water in farming systems"
 authors:
-- Celicourt, P., Gumiere, S. J., Rousseau, A.
+- Celicourt, P., Rousseau, A., Gumiere, S. J.
 date: "2019-07-01T00:00:00Z"
 doi: ""
 
