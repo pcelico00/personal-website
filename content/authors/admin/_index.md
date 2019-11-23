@@ -34,9 +34,9 @@ research_interests:
 
 education:
   courses:
-  - course: Postdoctoral Research, Precision Irrigation
+  - course: Postdoctoral Research, Agricultural hydroinformatics
     institution: Laval University
-    year: 2021 
+    year: 2020 
   - course: PhD, Hydroinformatics
     institution: The City College of New York
     year: 2017
