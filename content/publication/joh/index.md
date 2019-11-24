@@ -5,7 +5,7 @@ date: "2015-07-01"
 #image: ""
 #image_preview: ""
 math: false
-publication: "Special Issue on Online Water Data Networks: methods, standards, tools, and technologies. Journal of Hydroinformatics."
+publication: "Special Issue on Online Water Data Networks: methods, standards, tools, and technologies. Journal of Hydroinformatics, 18(2), 168-184"
 title: "HydroUnits: Supporting Dimensional Analysis in Hydrologic Computing Systems using Sensor-based Standards"
 #url_code: ""
 #url_dataset: ""
