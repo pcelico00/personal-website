@@ -30,7 +30,7 @@ research_interests:
 - 'Hydroinformatics: Large-scale hydrometric instrumentation systems'
 - 'Hydroinformatics: Cyberinfrastructure for large-scale instrumentation systems'
 - 'Hydroinformatics: Artificial Intelligence and Hydrology'
-- 'Agricultural hydroinformatics: Precision irrigation'
+- 'Agricultural hydroinformatics: Precision farming'
 
 education:
   courses:
