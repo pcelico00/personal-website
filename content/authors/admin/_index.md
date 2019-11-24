@@ -35,16 +35,16 @@ research_interests:
 education:
   courses:
   - course: Postdoctoral Research, Agricultural hydroinformatics
-    institution: Laval University
+    institution: Laval University, Canada
     year: 2020 
   - course: PhD, Hydroinformatics
-    institution: The City College of New York
+    institution: The City College of New York, USA
     year: 2017
   - course: MS, Urban Sustainability
-    institution: The City College of New York
+    institution: The City College of New York, USA
     year: 2011
   - course: BS, Electromechanical Engineering
-    institution: Faculte des Sciences, Universite d'Etat d'Haiti
+    institution: Faculte des Sciences, Universite d'Etat d'Haiti, Haiti
     year: 2009
 
 # Social/Academic Networking
