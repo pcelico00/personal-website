@@ -5,7 +5,7 @@ date: "2019-11-01"
 #image: ""
 #image_preview: ""
 math: false
-publication: "Agricultural Water Management. Submitted"
+publication: "Agricultural Water Management. Under Review"
 title: "Water table depth forecasting in cranberry fields using two decision-tree-modeling approaches"
 #url_code: ""
 #url_dataset: ""
