@@ -43,7 +43,9 @@ Abstract
 
 This research project aims to develop the prototype of an advanced and self-managed sensing system for groundwater table level measurements, named Irrigarinati, with networking, metadata auto-creation, and uncertainty quantification capabilities. The end goal is to enable improved real-time planning and management of groundwater resources for irrigation in horticultural farms. 
 
-Irrigarinati will primarily consist in a) an innovative hardware component (its front-end) with the ability to auto-generate its deployment-context metadata and b) a minimal online software platform (its back-end) to organize the collected data and auto-generated metadata according to standardized data management practices.
+Irrigarinati will primarily consist in a) an innovative hardware component (its front-end) with the ability to auto-generate its deployment-context metadata and b) an online software platform (its back-end) to organize the collected data and auto-generated metadata according to standardized data management practices. 
+
+Ultimately, the back-end system will be extended to integrate the vision of [agricultural hydroinformatics] (http://localhost:1313/project/agriculturalhydroinformatics/) which promotes sustainable agriculture as water-management-centric practices supported by a sociotechnical-system approach to their information and simulation models development. 
 
 See the [funding announcement here.] (https://www.centreau.ulaval.ca/en/centreau/news/three-new-centreau-scholarships/)
 
