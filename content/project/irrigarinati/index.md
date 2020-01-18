@@ -4,7 +4,7 @@ summary: This project aims to develop an advanced self-managed sensing system fo
 subtitle: A self-managed sensing system for irrigation management in horticultural farms.
 tags:
 - Agricultural hydroinformatics
-date: "2020-01-11T00:00:00Z"
+date: "2020-01-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -45,8 +45,8 @@ This research project aims to develop the prototype of an advanced and self-mana
 
 Irrigarinati will primarily consist in a) an innovative sensing system (its front-end) for water level measurements with the ability to auto-generate its deployment-context metadata and b) an online software platform (its back-end) to organize the collected data and auto-generated metadata according to standardized data management practices. 
 
-Ultimately, the back-end system may be extended to integrate the vision of [agricultural hydroinformatics] (http://localhost:1313/project/agriculturalhydroinformatics/) which promotes sustainable agriculture as water-management-centric practices supported by a sociotechnical-system approach to their information and simulation models development. 
+Ultimately, the back-end system may be extended to integrate the vision of [agricultural hydroinformatics] (https://paulcelicourt.ca/project/agriculturalhydroinformatics/) which promotes sustainable agriculture as water-management-centric practices supported by a sociotechnical-system approach to their information and simulation models development. 
 
-See the [funding announcement here.] (https://www.centreau.ulaval.ca/en/centreau/news/three-new-centreau-scholarships/)
+See the funding announcement [ here.] (https://www.centreau.ulaval.ca/en/centreau/news/three-new-centreau-scholarships/)
 
 
