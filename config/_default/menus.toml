@@ -28,10 +28,10 @@
 #  url = "hydroinformatics-news"
 #  weight = 50
 
-[[main]]
-  name = "Teaching Statement"
-  url = "#teachingstatement"
-  weight = 70
+#[[main]]
+#  name = "Teaching Statement"
+#  url = "#teachingstatement"
+#  weight = 70
   
 [[main]]
   name = "Contact"
